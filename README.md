@@ -31,8 +31,6 @@ Built a robot car with obstacle detection and navigation using sensor integratio
 Experimental testing and performance analysis of a turbocharged diesel engine, evaluating efficiency and system performance.
 `Experimental Testing` `Data Analysis`
 
-> *(Add a repo for each project above — see the setup note below. A pinned repo with a short README and even a few photos/code files goes a long way.)*
-
 
  🛠️ Skills
 
