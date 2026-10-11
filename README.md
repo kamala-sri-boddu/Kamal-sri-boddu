@@ -13,7 +13,7 @@
 - 🛠️ Background in **Mechanical Engineering** (B.Tech) with hands-on **quality inspection** experience — Non-Destructive Testing (UT, RT, MPT), dimensional & hydrostatic testing
 - 📊 Interested in **sensor calibration, data acquisition, and measurement systems** — working with Python and MATLAB
 - 🌏 Completed an exchange semester in Electrical & Electronics Engineering at the **University of Shanghai for Science and Technology**
-- 💬 Learning German (currently A1, actively improving)
+- 💬 Learning German (currently A2, actively improving)
 - 🎯 Looking for **internships, working student roles, or thesis projects** in quality engineering, sensor technology, or data/process analysis in Germany
 
 
