@@ -1,6 +1,6 @@
 # Kamala-sri-boddu
 <h1 align="center">Hi, I'm Kamala Sri Boddu 👋</h1>
-<h3 align="center">Mechanical Engineer → MSc Student in Analytical Instrumentation, Measurement & Sensor Technology</h3>
+<h3 align="center"> Master's Student in Analytical Instrumentation, Measurement & Sensor Technology</h3>
 
 <p align="center">
   📍 Nuremberg, Germany &nbsp;|&nbsp; 🎓 Hochschule Coburg &nbsp;|&nbsp; 🔧 Quality Inspection (NDT) & Sensor Data
