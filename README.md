@@ -6,7 +6,6 @@
   📍 Nuremberg, Germany &nbsp;|&nbsp; 🎓 Hochschule Coburg &nbsp;|&nbsp; 🔧 Quality Inspection (NDT) & Sensor Data
 </p>
 
-
 🧭 About Me
 
 - 🔭 Currently pursuing my **MEng in Analytical Instrumentation, Measurement and Sensor Technology** at Hochschule Coburg, Germany
